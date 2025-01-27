@@ -1,4 +1,4 @@
-# Sony - Historia de Sucesso
+# Sony - História de Sucesso
 
 Análise crítica do case "Sony - Success Story" relacionado ao uso do SCRUM.
 
