@@ -4,7 +4,7 @@ Análise crítica do case "Sony - Success Story" relacionado ao uso do SCRUM.
 
 O Scrum é um framework ágil usado para gerenciar projetos e promover a entrega incremental de produtos.
 
-<a href="output/SONY e Agile42 caso de sucesso do SCRUM.pdf" title="Read PDF"> 📕Clique aqui ter acesso ao e-book</a>
+<a href="output/SONY e Agile42 caso de sucesso do SCRUM.pdf" title="Read PDF"> 📕Clique aqui ter acesso ao texto</a>
 
 ## ✨ Referências:
 Sony - Success Story - agile42. Disponível em: 
